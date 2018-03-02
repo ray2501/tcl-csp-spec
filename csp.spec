@@ -38,5 +38,5 @@ rm -rf %buildroot
 %files
 %defattr(-,root,root)
 %doc LICENSE.txt README.md csp.html
-%_datadir/tcl/%{tarname}%{version}
+%_datadir/tcl
 
